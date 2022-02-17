@@ -1,0 +1,3 @@
+: The more token you put in token.json the more safe your applicablegets
+
+["token1", "token2", "token3", "and so on "] ==> This should be the format.. Each token should be put inside double QUOTES

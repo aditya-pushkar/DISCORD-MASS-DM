@@ -1,0 +1,8 @@
+invite -> paste the invite code of group where you want to advertise
+Leave Server after Mass Dm (y/n)-> if you want to leave srver 
+
+[?] Invite -> discord.gg/code  (paste the invite code of group where you want to advertise)
+[?] Leave Server after Mass DM? (y/n) -> press y for Yes and n for No
+[?] Use Proxies? (y/n) -> n
+[?] Delay -> 8 (It is number of sec you want to wait between 2 DM's.. minimum 7 is recommended --> The long you wait the less change of getting banned )
+[?] Rate limit Delay -> 802 (Dont bother about this option choose more than 800)
